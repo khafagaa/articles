@@ -1,0 +1,16 @@
+{
+  "search": "search",
+  "title": "title",
+  "content": "content",
+  "author": "author",
+  "publishedAt": "publishedAt",
+  "Settings": "Settings",
+  "Change_Language": "Change Language",
+  "light": "light",
+  "dark": "dark",
+  "Home": "Home",
+  "Drawer_Header": "Drawer Header",
+  "zkArt": "Zack Whittaker article",
+  "ar": "arabic",
+  "en": "english"
+}
